@@ -1,4 +1,4 @@
-package j_01.harf;
+package j01_.harf;
 
 public class B extends C {
     public B(){

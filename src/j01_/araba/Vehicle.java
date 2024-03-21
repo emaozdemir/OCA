@@ -1,4 +1,4 @@
-package j_01.araba;
+package j01_.araba;
 
 public class Vehicle {
     String type="4W";

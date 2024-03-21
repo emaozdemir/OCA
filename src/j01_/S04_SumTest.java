@@ -1,4 +1,4 @@
-package j_01;
+package j01_;
 
 public class S04_SumTest {
     public static void doSum(Integer x,Integer y){

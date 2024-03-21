@@ -1,4 +1,4 @@
-package j_01;
+package j01_;
 
 public class S02_ {
     public static void main(String[] args) {
